@@ -14,11 +14,3 @@ CSS: Tailwind CSS / CSS Modules / SCSS (replace with the actual CSS solution use
 State Management: Redux / Context API (if applicable)
 Routing: React Router (or another router, if used)
 
-Getting Started
-Follow these steps to set up the project on your local machine.
-
-Prerequisites
-Make sure you have the following installed on your system:
-
-Node.js (v16 or later recommended)
-npm or yarn
